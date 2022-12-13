@@ -12,3 +12,11 @@ go run hello.go
 go build
 ./TurkerGo
 ```
+
+```bash
+# windows 용 파일 생성
+GOOS "windows" go build
+```
+
+
+
